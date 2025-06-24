@@ -9,7 +9,7 @@ import { dark } from "@clerk/themes";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "AI Career Coach",
+  title: "PathwayAI - Your AI Career Coach",
   description: "An intelligent, personalized assistant that helps you navigate your career path by offering tailored guidance, resume feedback, and job search strategies",
 };
 
