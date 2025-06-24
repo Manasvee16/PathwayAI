@@ -1,5 +1,7 @@
 # PathwayAI
 
+[Try Here →](https://pathway-ai-sand.vercel.app/)
+
 PathwayAI is an intelligent, full-stack web application that empowers users to advance their careers with AI-powered tools. It provides personalized career guidance, resume and cover letter generation, interview preparation, and real-time industry insights—all tailored to your background and goals.
 
 ---
