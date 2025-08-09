@@ -20,7 +20,7 @@ To help users advance their careers using personalized, AI-powered tools.
 
 ### 2.1 Product Perspective
 - Web application, responsive design
-- Integrates with third-party APIs (Clerk, Google Generative AI)
+- Integrates with third-party APIs (Clerk, Neon, Google Generative AI)
 
 ### 2.2 Product Functions
 - User onboarding
