@@ -21,4 +21,4 @@
 - ✅ Deployment and documentation
 
 ---
-*Update this file after each sprint with completed tasks, blockers, and retrospective notes.*
+
