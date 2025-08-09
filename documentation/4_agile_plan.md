@@ -2,8 +2,7 @@
 
 ## 1. Roles
 - **Product Owner:** Manasvee Rathie
-- **Scrum Master:** (Assign if team)
-- **Development Team:** (List members)
+- **Scrum Master:** Manasvee Rathie
 
 ## 2. Artifacts
 - **Product Backlog:** All features, enhancements, and bug fixes
@@ -38,6 +37,5 @@
 ## 5. Tools
 - GitHub Projects/Issues
 - VS Code, Figma (for UI)
-- Slack/Discord (for communication)
 
 ---

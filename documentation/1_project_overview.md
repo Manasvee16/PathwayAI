@@ -3,11 +3,8 @@
 ## Project Title
 PathwayAI: AI-Powered Career Guidance Platform
 
-## Course
-B. Tech Final Semester – Software Engineering
-
 ## Team
-- Manasvee Rathie (and team members, if any)
+- Manasvee Rathie 
 
 ## Abstract
 PathwayAI is a full-stack web application that leverages artificial intelligence to provide personalized career guidance, resume and cover letter generation, interview preparation, and real-time industry insights. The platform is designed to help students and professionals accelerate their career growth with data-driven, AI-powered tools.
@@ -28,6 +25,6 @@ PathwayAI is a full-stack web application that leverages artificial intelligence
 - Next.js, React, Tailwind CSS, Prisma, PostgreSQL, Clerk, Google Generative AI, Recharts, etc.
 
 ## Repository
-- [GitHub Repository Link](<add-link-here>)
+- [GitHub Repository Link](https://github.com/Manasvee16/PathwayAI)
 
 ---
