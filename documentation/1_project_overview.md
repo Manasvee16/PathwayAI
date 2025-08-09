@@ -25,6 +25,6 @@ PathwayAI is a full-stack web application that leverages artificial intelligence
 - Next.js, React, Tailwind CSS, Prisma, PostgreSQL, Clerk, Google Generative AI, Recharts, etc.
 
 ## Repository
-- [GitHub Repository Link](<add-link-here>)
+- [GitHub Repository Link](https://github.com/Manasvee16/PathwayAI)
 
 ---
